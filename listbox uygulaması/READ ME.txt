@@ -1,0 +1,1 @@
+Bu Python uygulaması, tkinter kütüphanesi kullanılarak iki liste arasında elemanları ekleme, silme ve taşıma işlemlerini gerçekleştiren bir GUI (Grafiksel Kullanıcı Arayüzü) sunar.
